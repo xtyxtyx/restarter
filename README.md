@@ -22,10 +22,6 @@ void main() {
 }
 ```
 
-<p>
-  <img src="https://raw.githubusercontent.com/xtyxtyx/restarter/master/image/example.png">
-</p>
-
 ## Features and bugs
 
 Please file feature requests and bugs at the [issue tracker][tracker].

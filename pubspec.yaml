@@ -1,6 +1,6 @@
 name: restarter
 description: Restarter is a tool that detects file changes and automatically restarts the application.
-version: 0.1.0
+version: 0.1.1
 homepage: https://github.com/xtyxtyx/restarter
 
 environment:
